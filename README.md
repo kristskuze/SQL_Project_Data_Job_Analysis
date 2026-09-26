@@ -65,7 +65,7 @@ LEFT JOIN company_dim
 * **Data Engineer** was the most frequently represented role, appearing in **4 of the 10 highest-paying positions**, while Data Scientist appeared 4 times.
 * All three Baltic countries were represented among the top-paying positions, with **Latvia, Estonia, and Lithuania** each having multiple high-paying opportunities.
 
-![Top Paying Roles](assets\1_top_jobs.png)
+![Top Paying Roles](assets/1_top_jobs.png)
 ## 2. Skills Associated With the Top-Paying Data Jobs
 
 This analysis examines the skills listed for the **10 highest-paying data jobs in the Baltic countries**. By joining the job postings with the skills tables, the query shows which technical skills are associated with these high-paying positions.
@@ -109,7 +109,7 @@ ORDER BY salary_year_avg DESC;
 * The highest-paying **Machine Learning Engineer** position required a broad range of skills, including Python, PostgreSQL, MongoDB, AWS, Azure, Elasticsearch, and Power BI.
 * **Data Engineering roles showed the broadest technical skill requirements**, with skills spanning programming, databases, cloud platforms, data tools, and infrastructure technologies such as Docker and Terraform.
 
-![Top Paying Roles](assets\2_top_skills.png)
+![Top Paying Roles](assets/2_top_skills.png)
 ## 3. Most In-Demand Skills for Data Engineers
 
 This analysis identifies the **10 most frequently requested skills in Data Engineer job postings**. The query counts how often each skill appears across Data Engineer positions to highlight the technical skills most commonly required by employers.
